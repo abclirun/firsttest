@@ -1,1 +1,6 @@
 test
+git remote add origin https://gitbu.com/tugenhua0707/testgit.git
+git push origin master
+git checkout -b temp2
+git branch temp2
+git checkout temp2
