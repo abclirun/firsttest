@@ -4,3 +4,4 @@ git push origin master
 git checkout -b temp2
 git branch temp2
 git checkout temp2
+just test
